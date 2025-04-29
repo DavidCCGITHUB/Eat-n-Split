@@ -7,7 +7,7 @@ Built with **React**, **CSS**, and **local storage**.
 
 ## Live Demo
 
-This web app was deployed on vercel, it can be tried in here -> ![Split-n-Eat](https://eat-n-split-psi-gold.vercel.app/)
+This web app was deployed on vercel, it can be tried in here -> [Split-n-Eat](https://eat-n-split-psi-gold.vercel.app/)
 
 ## Preview
 
