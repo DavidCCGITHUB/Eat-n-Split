@@ -7,7 +7,7 @@ Built with **React**, **CSS**, and **local storage**.
 
 ## Live Demo
 
-This web app was deployed on vercel, it can be tried in here -> [Split-n-Eat](https://eat-n-split-psi-gold.vercel.app/)
+This web app was deployed on vercel, it can be tried in here -> [Eat-n-Split](https://eat-n-split-psi-gold.vercel.app/)
 
 ## Preview
 
@@ -35,8 +35,8 @@ To run this project locally:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/davidccgithub/eat-n-split.git
+   cd eat-n-split
    ```
 
 2. Install dependencies:
