@@ -24,7 +24,7 @@ This web app was deployed on vercel, it can be tried in here -> [Split-n-Eat](ht
 ## Technologies
 
 - React
-- CSS / SASS
+- CSS
 - JavaScript
 - LocalStorage API
 
