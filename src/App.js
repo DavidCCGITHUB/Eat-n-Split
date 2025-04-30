@@ -182,8 +182,7 @@ function FormSplitBill({ selectedFriend, onSplitBill }) {
 
   function handleSubmit(e) {
     e.preventDefault();
-
-    if (!bill || !paidByUser) return;
+    
     onSplitBill(whoIsPaying === "user" ? paidByFriend : -paidByUser);
   }
 
